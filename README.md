@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kennedy Butera</h1>
-<h3 align="center">A Web developer </h3>
+<h3 align="center">A passionate Web developer </h3>
 
 🌐 Socials:
 <p align="left">
